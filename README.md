@@ -7,7 +7,7 @@
 - How to reach me: **walterlazo293@gmail.com**
 
 <div align="center">
- <img src='https://drive.google.com/file/d/17gpPoSPA7-4vMrRP-Z_t5TD6NM_RtDP3/view?usp=drive_link' style="width: 100px; height: 100px;">
+ <img src='https://drive.google.com/file/d/17gpPoSPA7-4vMrRP-Z_t5TD6NM_RtDP3/view?usp=sharing' style="width: 100px; height: 100px;">
 </div>
 
 
