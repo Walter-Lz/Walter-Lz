@@ -6,6 +6,13 @@
 
 - How to reach me: **walterlazo293@gmail.com**
 
+//https://drive.google.com/file/d/17gpPoSPA7-4vMrRP-Z_t5TD6NM_RtDP3/view?usp=drive_link
+<div align="center">
+ <img src='https://drive.google.com/file/d/17gpPoSPA7-4vMrRP-Z_t5TD6NM_RtDP3/view?usp=drive_link' style="width: 100px; height: 100px;">
+</div>
+
+
+
 <h3>Languages and Tools:</h3>
 
 <p>  
