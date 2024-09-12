@@ -7,6 +7,11 @@
 - How to reach me: **walterlazo293@gmail.com**
 
 
+<div align="center">
+ <img src='img/Luffy-God-GIf.gif' style="width: 700px; height: 320px;">
+</div>
+
+
 <h3>Languages and Tools:</h3>
 
 <p>  
