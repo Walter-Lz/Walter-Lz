@@ -6,12 +6,6 @@
 
 - How to reach me: **walterlazo293@gmail.com**
 
-<p align="center">
-  <img src="https://i.ibb.co/x3rvtdZ/Luffy-God-GIfv2.gif" alt="Luffy God" style="width: 100px; height: 100px;">
-</p>
-
-
-
 
 <h3>Languages and Tools:</h3>
 
@@ -60,3 +54,4 @@
 <div >
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Lz&layout=donut&theme=dark&hide_border=true'>
 </div>
+
