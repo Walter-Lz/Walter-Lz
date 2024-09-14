@@ -8,7 +8,7 @@
 
 
 <div align="center">
- <img src='img/AcheronGif.gif' style="width: 700px; height: 320px;">
+ <img src='img/Luffy-God-GIf.gif' style="width: 700px; height: 320px;">
 </div>
 
 
